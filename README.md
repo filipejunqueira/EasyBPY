@@ -1,4 +1,9 @@
 # EasyBPY
+#THIS IS A FORK FROM THE ORIGINAL EasyBPY from Curtis Holt. Go to his github for the official one. 
+#THIS will have several changes that one day may or maynot be pushed to the original project. 
+##Original description from the project bellow: 
+
+
 A module to simplify the use of the Blender Python API.
 
 The purpose of the EasyBPY module is to simplify the use of the Blender API by creating an extra layer of abstraction that is more human-readable, memorable and reduces the user’s exposure to complex code paths.
